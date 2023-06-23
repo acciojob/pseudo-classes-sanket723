@@ -1,13 +1,16 @@
 /*  your css code here. If applicable */
-body{
-	background-color:skyblue;
+html{
+	background-color:rgb(135, 206, 235);
 }
 
 .first{
 	background-color:black;
 	color:white;
 }
+.last{
+	color:rgb(255,0,0);
+}
 
-span{
-	color:red;
+ul{
+	width:300px;
 }
